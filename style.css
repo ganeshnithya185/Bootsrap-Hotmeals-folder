@@ -1,0 +1,180 @@
+.navbar-brand {
+  font-family: "Qwigley";
+  color: #ffb30e;
+}
+.btn {
+  color: #ffb30e;
+  border: 2px solid #ffb30e;
+}
+.bold {
+  color: rgb(56, 51, 51);
+}
+.delivery {
+  padding-left: 200px;
+}
+.food {
+  height: 300px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.look {
+  color: white;
+}
+.yellow-bg {
+  background-color: #ffb30e;
+  height: 300px;
+}
+.meals {
+  text-align: center;
+  color: white;
+  justify-content: center;
+  font-family: "Qwigley";
+}
+.color {
+  background-color: white;
+  width: 600px;
+}
+.foodmeals {
+  height: 180px;
+  width: 200px;
+}
+.para {
+  padding-left: 16px;
+  padding-top: 8px;
+}
+.btn {
+  color: orangered;
+  background-color: lightsalmon;
+}
+.work {
+  color: #f17228;
+}
+.first {
+  height: 90px;
+  width: 80px;
+  top: 1555px;
+  left: 418px;
+}
+.daily {
+  color: #f17228;
+  font-weight: 700px;
+  height: 84px;
+  width: 50px;
+  padding-left: 10px;
+  padding-top: 20px;
+}
+.secondicon {
+  height: 84px;
+  width: 70px;
+  top: 1555px;
+  left: 418px;
+}
+.second {
+  color: #f17228;
+  font-weight: 700px;
+  height: 84px;
+  width: 50px;
+  padding-left: 10px;
+  padding-top: 20px;
+}
+.third {
+  color: #f17228;
+  font-weight: 700px;
+  height: 84px;
+  width: 50px;
+  padding-left: 10px;
+  padding-top: 20px;
+}
+.thirdicon {
+  height: 84px;
+  width: 70px;
+  top: 1555px;
+  left: 418px;
+}
+.grey-color {
+  background-color: rgb(210, 202, 202);
+  height: 300px;
+}
+.searchfood {
+  color: #212121;
+}
+.firstfood {
+  height: 150px;
+  width: 150px;
+}
+.dosa {
+  color: #424242;
+  font-style: "Source Sans Pro";
+  font-weight: bolder;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+.foodgroup {
+  width: 600px;
+  height: 300px;
+  padding-left: 40px;
+}
+.proceedtoorder {
+  background-color: #ffb20e;
+  color: white;
+  box-shadow: #de9700;
+}
+.bestdeal {
+  padding-top: 30px;
+  font-weight: bolder;
+  color: #212121;
+  font-size: larger;
+}
+.bold {
+  color: #ffb20e;
+}
+.para2 {
+  padding-left: 110px;
+}
+.popularitems {
+  color: #212121;
+  font-weight: bolder;
+  font-size: larger;
+  font-size: "Source Sans Pro";
+}
+.murukuitems {
+  padding-left: 120px;
+  height: 240px;
+  width: 330px;
+}
+.dosam {
+  color: #424242;
+  font-style: "Source Sans Pro";
+  font-weight: bolder;
+  padding-left: 190px;
+  padding-top: 20px;
+}
+.ordernow {
+  padding-left: 20px;
+  margin-left: 130px;
+  width: 200px;
+}
+.dosam-sevval {
+  color: #424242;
+  font-style: "Source Sans Pro";
+  font-weight: bolder;
+  padding-left: 190px;
+  padding-top: 20px;
+}
+.footerpage {
+  background-color: #212121;
+  height: 350px;
+}
+h5 {
+  color: white;
+}
+p {
+  color: white;
+}
+h6 {
+  color: #f5f5f5;
+}
+.aathi {
+  color: white;
+}
